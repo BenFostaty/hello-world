@@ -1,7 +1,7 @@
 # hello-world
 My first repository.
 
-##Sub-heading
+## Sub-heading
 
 **Some bold text**
 
